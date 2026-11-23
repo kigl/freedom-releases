@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Freedom</title>
+  <desc id="desc">Discord и YouTube на вашем компьютере. Приложение для Windows.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07101d"/>
+      <stop offset="1" stop-color="#10243e"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#1977f3" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#1977f3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#39d9fa"/>
+      <stop offset="1" stop-color="#75afff"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="359" rx="24" fill="url(#background)" stroke="#263e60"/>
+  <ellipse cx="970" cy="190" rx="230" ry="160" fill="url(#glow)"/>
+  <g transform="translate(64 64)">
+    <rect width="64" height="64" rx="16" fill="#11263e" stroke="#263e60"/>
+    <path fill="#39d9fa" d="M26 14c-7 0-10 4-12 11L8 51h12l4-14h14c6 0 9-3 11-9H27l1-5h16c5 0 8-3 10-9H26Z"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="151" y="113" fill="#f5f7ff" font-size="52" font-weight="700" letter-spacing="-1">Freedom</text>
+    <text x="64" y="205" fill="url(#accent)" font-size="42" font-weight="700">Discord и YouTube</text>
+    <text x="64" y="250" fill="#f5f7ff" font-size="31">на вашем компьютере</text>
+    <text x="64" y="307" fill="#a9b6cf" font-size="20">ПРИЛОЖЕНИЕ ДЛЯ WINDOWS</text>
+  </g>
+  <g transform="translate(817 84)">
+    <rect width="150" height="150" rx="38" fill="#152c4a" stroke="#305177" transform="rotate(-8 75 75)"/>
+    <g transform="translate(26 40) scale(.78)" fill="#c7d2fe">
+      <path d="M107.7 8.1A105.1 105.1 0 0 0 81.5 0a72 72 0 0 0-3.4 6.9 97.7 97.7 0 0 0-29 0A72 72 0 0 0 45.7 0a105 105 0 0 0-26.2 8.1C2.9 32.8-1.6 56.9.7 80.7a105.7 105.7 0 0 0 32.1 16.2 79 79 0 0 0 6.6-10.7 68.5 68.5 0 0 1-10.4-5c.9-.7 1.7-1.4 2.5-2.1a75 75 0 0 0 64.3 0c.8.7 1.7 1.4 2.5 2.1a69 69 0 0 1-10.4 5 79 79 0 0 0 6.6 10.7 105.2 105.2 0 0 0 32.1-16.2c2.7-27.6-4.6-51.5-18.9-72.6ZM42.5 66.1c-6.3 0-11.4-5.8-11.4-12.8s5-12.8 11.4-12.8c6.5 0 11.6 5.8 11.5 12.8 0 7-5 12.8-11.5 12.8Zm42.3 0c-6.3 0-11.4-5.8-11.4-12.8s5-12.8 11.4-12.8c6.5 0 11.6 5.8 11.5 12.8 0 7-5 12.8-11.5 12.8Z"/>
+    </g>
+  </g>
+  <g transform="translate(977 158)">
+    <rect width="150" height="124" rx="32" fill="#152c4a" stroke="#305177" transform="rotate(8 75 62)"/>
+    <g transform="translate(27 28) scale(1.2)">
+      <path fill="#ff3156" d="M78.3 8.7A10 10 0 0 0 71.2 1.6C64.9 0 40 0 40 0S15.1 0 8.8 1.6a10 10 0 0 0-7.1 7.1C0 15 0 28 0 28s0 13 1.7 19.3a10 10 0 0 0 7.1 7.1C15.1 56 40 56 40 56s24.9 0 31.2-1.6a10 10 0 0 0 7.1-7.1C80 41 80 28 80 28s0-13-1.7-19.3Z"/>
+      <path fill="#fff" d="m32 40 21-12-21-12Z"/>
+    </g>
+  </g>
+</svg>
